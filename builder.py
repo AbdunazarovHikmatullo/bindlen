@@ -119,3 +119,5 @@ if create_dirs.lower() == 'y':
         create_base_dirs(blog_apps)
     elif type_project == 3:
         create_base_dirs(landing_apps)
+
+# дял нового комита пробуем комитить
